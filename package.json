@@ -1,13 +1,16 @@
 {
   "name": "ms-pot",
   "version": "0.0.0",
+  "homepage": "https://ktnyt.github.io/ms-pot",
   "description": "",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "license": "MIT",
   "devDependencies": {
