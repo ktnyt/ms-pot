@@ -1,4 +1,4 @@
-export const EXPERIENCE = [
+export const EXPERIENCE_DESTINY = [
   // 0-9
   0, 15, 34, 57, 92, 135, 372, 560, 840, 1242,
   // 10-19
@@ -87,7 +87,127 @@ export const EXPERIENCE = [
   348664933410464, 383531426751510, 421884569426661, 464073026369327,
   510480329006259, 1031170264592640, 1134287291051900, 1247716020157090,
   1372487622172800, 2058731433259200,
-]
+];
+
+export const EXPERIENCE = [
+  // 0-9
+  0, 15, 34, 57, 92, 135, 372, 560, 840, 1242,
+
+  // 10-19
+  1242, 1242, 1242, 1242, 1242, 1490, 1788, 2145, 2574, 3088,
+
+  // 20-29
+  3705, 4446, 5335, 6402, 7682, 9218, 11061, 13273, 15927, 19112,
+
+  // 30-39
+  19112, 19112, 19112, 19112, 19112, 22934, 27520, 33024, 39628, 47553,
+
+  // 40-49
+  51357, 55465, 59902, 64694, 69869, 75458, 81494, 88013, 95054, 102658,
+
+  // 50-59
+  110870, 119739, 129318, 139663, 150836, 162902, 175934, 190008, 205208,
+  221624,
+
+  // 60-69
+  221624, 221624, 221624, 221624, 221624, 238245, 256113, 275321, 295970,
+  318167,
+
+  // 70-79
+  342029, 367681, 395257, 424901, 456768, 488741, 522952, 559558, 598727,
+  640637,
+
+  // 80-89
+  685481, 733464, 784806, 839742, 898523, 961419, 1028718, 1100728, 1177778,
+  1260222,
+
+  // 90-99
+  1342136, 1429374, 1522283, 1621231, 1726611, 1838840, 1958364, 2085657,
+  2221224, 2365603,
+
+  // 100-109
+  2365603, 2365603, 2365603, 2365603, 2365603, 2519367, 2683125, 2857528,
+  3043267, 3241079,
+
+  // 110-119
+  3451749, 3676112, 3915059, 4169537, 4440556, 4729192, 5036589, 5363967,
+  5712624, 6083944,
+
+  // 120-129
+  6479400, 6900561, 7349097, 7826788, 8335529, 8877338, 9454364, 10068897,
+  10723375, 11420394,
+
+  // 130-139
+  12162719, 12953295, 13795259, 14691950, 15646926, 16663976, 17747134,
+  18900697, 20129242, 21437642,
+
+  // 140-149
+  22777494, 24201087, 25713654, 27320757, 29028304, 30842573, 32770233,
+  34818372, 36994520, 39306677,
+
+  // 150-159
+  41763344, 44373553, 47146900, 50093581, 53224429, 56550955, 60085389,
+  63840725, 67830770, 72070193,
+
+  // 160-169
+  76574580, 81360491, 86445521, 91848366, 97588888, 103688193, 110168705,
+  117054249, 124370139, 132143272,
+
+  // 170-179
+  138750435, 145687956, 152972353, 160620970, 168652018, 177084618, 185938848,
+  195235790, 204997579, 215247457,
+
+  // 180-189
+  226009829, 237310320, 249175836, 261634627, 274716358, 288452175, 302874783,
+  318018522, 333919448, 350615420,
+
+  // 190-199
+  368146191, 386553500, 405881175, 426175233, 447483994, 469858193, 493351102,
+  518018657, 543919589, 571115568,
+
+  // 200-209
+  2207026470, 2471869646, 2768494003, 3100713283, 3472798876, 3889534741,
+  4356278909, 4879032378, 5464516263, 6120258214,
+
+  // 210-219
+  9792413142, 10869578587, 12065232231, 13392407776, 14865572631, 19325244420,
+  21064516417, 22960322894, 25026751954, 27279159629,
+
+  // 220-229
+  35462907517, 37945311043, 40601482816, 43443586613, 46484637675, 64148799991,
+  67356239990, 70724051989, 74260254588, 77973267317,
+
+  // 230-239
+  124757227707, 128499944538, 132354942874, 136325591160, 140415358894,
+  193773195273, 199586391131, 205573982864, 211741202349, 218093438419,
+
+  // 240-249
+  348949501470, 359417986514, 370200526109, 381306541892, 392745738148,
+  541989118644, 558248792203, 574996255969, 592246143648, 610013527957,
+
+  // 250-259
+  976021644731, 1005302294072, 1035461362984, 1066525203780, 1098520959893,
+  1131476588689, 1165420886349, 1200383512939, 1236395018327, 1273486868876,
+
+  // 260-269
+  2902427248153, 2931451520634, 2960766035840, 2990373696198, 3020277433159,
+  3050480207490, 3080985009564, 3111794859659, 3142912808255, 3174341936337,
+
+  // 270-279
+  6412170711400, 6476292418514, 6541055342699, 6606465896125, 6672530555086,
+  13478511721273, 14826362893400, 16308999182740, 17939899101014,
+  19733889011115,
+
+  // 280-289
+  39862455802452, 43848701382697, 48233571520966, 53056928673062,
+  58362621540368, 117892495511543, 129681745062697, 142649919568966,
+  156914911525862, 172606402678448,
+
+  // 290-299
+  348664933410464, 383531426751510, 421884569426661, 464073026369327,
+  510480329006259, 1031170264592643, 1134287291051900, 1247716020157090,
+  1372487622172800, 2058731433259209,
+];
 
 export const POTION_IDS = [
   "POTION0",
@@ -96,7 +216,7 @@ export const POTION_IDS = [
   "POTION3",
   "POTION4",
   "POTION5",
-] as const
+] as const;
 
 const POTION_LABELS = [
   "エクストリーム成長の秘薬",
@@ -105,12 +225,12 @@ const POTION_LABELS = [
   "成長の秘薬（200~229レベル）",
   "疾風の成長の秘薬",
   "極限成長の秘薬",
-] as const
+] as const;
 
-export type PotionID = typeof POTION_IDS[number]
-export type PotionLabel = typeof POTION_LABELS[number]
-export type Potion = { label: PotionLabel; min: number; max: number }
-export type PotionData = { [name in PotionID]: Potion }
+export type PotionID = (typeof POTION_IDS)[number];
+export type PotionLabel = (typeof POTION_LABELS)[number];
+export type Potion = { label: PotionLabel; min: number; max: number };
+export type PotionData = { [name in PotionID]: Potion };
 
 export const POTION_DATA: PotionData = {
   POTION0: { label: "エクストリーム成長の秘薬", min: 141, max: 199 },
@@ -119,36 +239,37 @@ export const POTION_DATA: PotionData = {
   POTION3: { label: "成長の秘薬（200~229レベル）", min: 200, max: 229 },
   POTION4: { label: "疾風の成長の秘薬", min: 200, max: 239 },
   POTION5: { label: "極限成長の秘薬", min: 200, max: 249 },
-}
+};
 
-export type PotionCount = { [name in PotionID]: number }
+export type PotionCount = { [name in PotionID]: number };
 
 export const toPercentage = (level: number, exp: number) =>
-  (100 * exp) / EXPERIENCE[level]
+  (100 * exp) / EXPERIENCE[level];
 
 export const fromPercentage = (level: number, percentage: number) =>
-  Math.floor((percentage * EXPERIENCE[level]) / 100)
+  Math.floor((percentage * EXPERIENCE[level]) / 100);
 
 export const expToLevel = (total: number): [number, number] =>
   EXPERIENCE.reduce(
     ([level, prev], curr, index) =>
       ((diff) => (diff < 0 ? [level, prev] : [index + 1, diff]))(prev - curr),
     [1, total]
-  )
+  );
 
 export const levelToExp = (level: number, experience = 0): number =>
-  EXPERIENCE.slice(0, level).reduce((prev, curr) => prev + curr, 0) + experience
+  EXPERIENCE.slice(0, level).reduce((prev, curr) => prev + curr, 0) +
+  experience;
 
 export const applyPotion = (total: number, potion: Potion): number => {
-  const [level] = expToLevel(total)
+  const [level] = expToLevel(total);
   if (level < potion.min) {
-    return total
+    return total;
   }
   if (level < potion.max) {
-    return total + EXPERIENCE[level]
+    return total + EXPERIENCE[level];
   }
-  return total + EXPERIENCE[potion.max]
-}
+  return total + EXPERIENCE[potion.max];
+};
 
 export const applyPotions = (
   total: number,
@@ -160,18 +281,18 @@ export const applyPotions = (
       ...Array(potionCounts[potionID]).fill(POTION_DATA[potionID]),
     ],
     [] as Potion[]
-  ).reduce((prev, potion) => applyPotion(prev, potion), total)
+  ).reduce((prev, potion) => applyPotion(prev, potion), total);
 
 export const unapplyPotion = (total: number, potion: Potion): number => {
-  const [level] = expToLevel(total)
+  const [level] = expToLevel(total);
   if (level > potion.max) {
-    return total - EXPERIENCE[potion.max]
+    return total - EXPERIENCE[potion.max];
   }
   if (level > potion.min) {
-    return total - EXPERIENCE[level - 1]
+    return total - EXPERIENCE[level - 1];
   }
-  return total
-}
+  return total;
+};
 
 export const unapplyPotions = (
   total: number,
@@ -183,4 +304,4 @@ export const unapplyPotions = (
       ...Array(potionCounts[potionID]).fill(POTION_DATA[potionID]),
     ],
     [] as Potion[]
-  ).reduce((prev, potion) => unapplyPotion(prev, potion), total)
+  ).reduce((prev, potion) => unapplyPotion(prev, potion), total);
